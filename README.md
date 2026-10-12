@@ -9,12 +9,12 @@ The project translates the original Figma concept into an interactive React appl
 🔗 **GitHub:** https://github.com/swapnil1222589/Campusskillaidesignprototype   
 🎨 **Original Figma Design:**
 https://www.figma.com/design/DlA3k1yvfIz0ojNHi0wXDL/CampusSkill-AI-Design-Prototype
-
+  
 ---
  
 ## ✨ Overview
 
-CampusSkill AI is designed around the idea of bringing important student experiences into one platform.
+CampusSkill AI is designed around the idea of bringing important student experiences into one platform.   
 
 The prototype explores how an AI-first campus platform could support students through:
 
