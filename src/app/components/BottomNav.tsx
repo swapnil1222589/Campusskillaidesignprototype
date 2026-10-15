@@ -5,7 +5,7 @@ import { motion } from 'motion/react';
 
 export const BottomNav: React.FC = () => {
   const location = useLocation();
-  const navigate = useNavigate();
+  const navigate = useNavigate();  
 
   const navItems = [
     { path: '/dashboard', label: 'Home', icon: Home },
