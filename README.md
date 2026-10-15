@@ -54,7 +54,7 @@ Structure the application so the prototype can later evolve into a complete prod
 
 ## 🧩 Key Areas
 
-The project is structured around reusable application components and context-driven state.
+The project is structured around reusable application components and context-driven state.  
 
 Potential product areas represented by the prototype include:  
 
