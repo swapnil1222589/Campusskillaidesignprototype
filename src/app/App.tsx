@@ -46,7 +46,7 @@ function AppRoutes() {
           element={
             <ProtectedRoute>
               <Onboarding />
-            </ProtectedRoute>
+            </ProtectedRoute>   
           }
         />
         <Route
