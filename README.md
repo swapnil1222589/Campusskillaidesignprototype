@@ -56,7 +56,7 @@ Structure the application so the prototype can later evolve into a complete prod
 
 The project is structured around reusable application components and context-driven state.
 
-Potential product areas represented by the prototype include:
+Potential product areas represented by the prototype include:  
 
 * 🏠 Student dashboard
 * 📚 Learning and skill development
