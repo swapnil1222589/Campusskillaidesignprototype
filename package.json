@@ -75,7 +75,7 @@
   },
   "peerDependenciesMeta": {
     "react": {
-      "optional": true
+      "optional": true  
     },
     "react-dom": {
       "optional": true
