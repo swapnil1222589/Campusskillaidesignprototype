@@ -10,7 +10,7 @@ export const BottomNav: React.FC = () => {
   const navItems = [
     { path: '/dashboard', label: 'Home', icon: Home },
     { path: '/roadmap', label: 'Roadmap', icon: Map },
-    { path: '/profile', label: 'Profile', icon: User }
+    { path: '/profile', label: 'Profile', icon: User }  
   ];   
 
   const isActive = (path: string) => location.pathname === path;
