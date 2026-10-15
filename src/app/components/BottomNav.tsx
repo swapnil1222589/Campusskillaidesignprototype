@@ -47,7 +47,7 @@ export const BottomNav: React.FC = () => {
                   />
                 )}
                 <Icon
-                  className={`w-6 h-6 relative z-10 transition-colors ${
+                  className={`w-6 h-6 relative z-10 transition-colors ${  
                     active
                       ? 'text-blue-600 dark:text-blue-400'
                       : 'text-gray-500 dark:text-gray-400'
