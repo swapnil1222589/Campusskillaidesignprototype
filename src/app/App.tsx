@@ -3,7 +3,7 @@ import { BrowserRouter, Routes, Route, Navigate } from 'react-router-dom';
 import { ThemeProvider } from 'next-themes';
 import { AppProvider, useApp } from './context/AppContext';
 import { Auth } from './components/screens/Auth';
-import { Onboarding } from './components/screens/Onboarding';
+import { Onboarding } from './components/screens/Onboarding'; 
 import { Dashboard } from './components/screens/Dashboard';
 import { Roadmap } from './components/screens/Roadmap';
 import { TaskDetail } from './components/screens/TaskDetail';
