@@ -10,7 +10,7 @@ The project translates the original Figma concept into an interactive React appl
 🎨 **Original Figma Design:**
 https://www.figma.com/design/DlA3k1yvfIz0ojNHi0wXDL/CampusSkill-AI-Design-Prototype
   
----
+----
  
 ## ✨ Overview
 
