@@ -36,7 +36,7 @@ The prototype was created with several core goals:
 
 ### Student-Centered UX
 
-Create a clean interface where students can quickly discover information, tools, and opportunities.
+Create a clean interface where students can quickly discover information, tools, and opportunities..
 
 ### AI-First Experience
 
