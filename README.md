@@ -68,7 +68,7 @@ Potential product areas represented by the prototype include:
 
 > The repository is primarily a design prototype, so feature depth and backend functionality may differ from a production implementation.
 
----
+----
 
 ## 🛠️ Technology Stack
 
