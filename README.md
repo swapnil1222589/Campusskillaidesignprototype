@@ -94,7 +94,7 @@ Potential product areas represented by the prototype include:
 * Sonner
 * Motion
 
-The project also includes supporting UI libraries for dialogs, tabs, dropdowns, accordions, progress indicators, tooltips, sliders, and other reusable interface patterns.
+The project also includes supporting UI libraries for dialogs, tabs, dropdowns, accordions, progress indicators, tooltips, sliders, and other reusable interface patterns..
 
 ---
 
