@@ -16,7 +16,7 @@ https://www.figma.com/design/DlA3k1yvfIz0ojNHi0wXDL/CampusSkill-AI-Design-Protot
 
 CampusSkill AI is designed around the idea of bringing important student experiences into one platform.   
 
-The prototype explores how an AI-first campus platform could support students through:
+The prototype explores how an AI-first campus platform could support students through: 
 
 * 🎓 Academic and campus experiences
 * 💼 Career development
