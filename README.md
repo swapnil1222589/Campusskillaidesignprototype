@@ -76,7 +76,7 @@ Potential product areas represented by the prototype include:
 
 * **React**
 * **TypeScript**
-* **Vite**
+* **Vite** 
 
 ### UI & Styling
 
